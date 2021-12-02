@@ -1,0 +1,15 @@
+setup.py
+hw_spiders/__init__.py
+hw_spiders/middlewares.py
+hw_spiders/myitems.py
+hw_spiders/pipelines.py
+hw_spiders/settings.py
+hw_spiders/spiders/__init__.py
+hw_spiders/spiders/keizer.py
+hw_spiders/spiders/mytest.py
+hw_spiders/spiders/runner.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
